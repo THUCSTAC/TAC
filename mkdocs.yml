@@ -10,7 +10,8 @@ theme:
     - content.code.annotate
 
 nav: 
-
+ - reference:
+   - reference/index.md
 
 markdown_extensions:
   - admonition
