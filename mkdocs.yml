@@ -1,0 +1,24 @@
+site_name: TA Competency
+
+theme:
+  name: material
+  palette:
+    primary: deep blue
+  features:
+    - navigation.instant
+    - navigation.indexes
+    - content.code.annotate
+
+nav: 
+
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
