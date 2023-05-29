@@ -12,6 +12,20 @@ Please submit an issue if you find some links invalid.
 
 [How to make Good Slides, Armando Fox](https://www.armandofox.com/students/slides)
 
+[Berkeley Teaching Conference Handout](https://drive.google.com/file/d/1B4p4iceS10u4oRhEnfj5arn9cwkx_U3r/view)
+
+[A list of Activities to engage students,teaching.tools](https://teaching.tools/activities)
+
+[UW Inclusive Teaching Tips](https://docs.google.com/document/d/15egU3IYmgd8c2exue3G7oqpoSQmOVYRumu_Nq7PnkCQ/edit)
+
+[Stanford Inclusive Teaching Tips](https://docs.google.com/document/d/1hLivou9-_wmsZuzKI2pCGQu0KHVIgYfJSaYhvTgO0Wo/edit)
+
+[AI Guidance, Yale](https://poorvucenter.yale.edu/AIguidance)
+
+### Debug
+
+[Classroom debugging guide, Khan Academy](https://www.khanacademy.org/khan-for-educators/resources/teacher-essentials/teaching-computing/a/classroom-debugging-guide)
+
 ### Visualization
 
 [PythonTutor](https://pythontutor.com/), supporting Python,JavaScript,C/C++,Java.

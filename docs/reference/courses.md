@@ -5,6 +5,8 @@
 - CS375 Teaching Techniques for Computer Science
 - CS370 Introduction to Teaching Computer Science
 - CS194-245 STAR Assessments for Mastery Learning
+- CS302 Designing Computer Science Education
+- [GSI Ethics Online Course](https://gsi.berkeley.edu/faculty-departments/pedagogy-course-support/)
 
 ### UC Los Angeles
 
