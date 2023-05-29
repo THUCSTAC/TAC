@@ -10,6 +10,8 @@ theme:
     - content.code.annotate
 
 nav: 
+ - home:
+   - index.md
  - reference:
    - reference/index.md
 
