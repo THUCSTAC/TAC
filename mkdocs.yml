@@ -14,6 +14,8 @@ nav:
    - index.md
  - reference:
    - reference/index.md
+   - courses: reference/courses.md
+   - resources: reference/resources.md
 
 markdown_extensions:
   - admonition
