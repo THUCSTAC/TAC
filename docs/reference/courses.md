@@ -8,6 +8,10 @@
 - CS302 Designing Computer Science Education
 - [GSI Ethics Online Course](https://gsi.berkeley.edu/faculty-departments/pedagogy-course-support/)
 
+### Northeastern University
+
+- Teaching Assistant Training: An Adjustable Curriculum for Computing Disciplines
+
 ### UC Los Angeles
 
 - CS495 Teaching Assistant Training Seminar 
@@ -36,3 +40,4 @@
 ### University of Michigan
 
 - Computing CARES(Inclusive Teaching Training)
+
