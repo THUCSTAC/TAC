@@ -12,10 +12,14 @@ theme:
 nav: 
  - home:
    - index.md
+ - Weekly:
+   - weekly/index.md
+   - weekly/20230605.md
  - reference:
    - reference/index.md
    - courses: reference/courses.md
    - resources: reference/resources.md
+
 
 markdown_extensions:
   - admonition
