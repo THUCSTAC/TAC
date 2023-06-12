@@ -4,7 +4,7 @@ Submit your issues here: https://github.com/THUCSTAC/TAC/issues
 
 Customized for Computer Science Teaching Assistants in Tsinghua
 
-!!!question "为什么这个网站主要使用英语?"
+??? question "为什么这个网站主要使用英语?"
 
     如你所见，这个网站参考和引用了很多英文资料，用英语建站，我就不用把这些资料再一一翻译过来。
 
