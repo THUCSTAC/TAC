@@ -51,3 +51,7 @@ Please submit an issue if you find some links invalid.
 ### Books
 
 [Your First Year Teaching Computer Science: A Practical Guide to Success for New Computer Science Teachers](https://www.amazon.com/Your-First-Teaching-Computer-Science-ebook/dp/B08VV3LFJZ/), by Chris Gregg from Stanford
+
+### Assignments
+
+[Nifty Assignments](http://nifty.stanford.edu/)
