@@ -22,6 +22,8 @@ Please submit an issue if you find some links invalid.
 
 [AI Guidance, Yale](https://poorvucenter.yale.edu/AIguidance)
 
+[CMU TA Collected Wisdom](https://www.cmu.edu/teaching/resources/PublicationsArchives/CollectedWisdom/collectwisdom-teachingstrategies.pdf)
+
 ### Debug
 
 [Classroom debugging guide, Khan Academy](https://www.khanacademy.org/khan-for-educators/resources/teacher-essentials/teaching-computing/a/classroom-debugging-guide)
