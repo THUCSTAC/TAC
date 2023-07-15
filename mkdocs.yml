@@ -12,6 +12,10 @@ theme:
 nav: 
  - home:
    - index.md
+ - 给计算机教师的教育学读本:
+   - textbook/index.md
+   - textbook/evaluation&survey.md
+
  - Weekly:
    - weekly/index.md
    - weekly/20230605.md
@@ -20,6 +24,7 @@ nav:
    - weekly/20230626.md
    - weekly/20230703.md
    - weekly/20230710.md
+
  - reference:
    - reference/index.md
    - courses: reference/courses.md
