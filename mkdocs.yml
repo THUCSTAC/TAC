@@ -15,7 +15,7 @@ nav:
  - 给计算机教师的教育学读本:
    - textbook/index.md
    - textbook/evaluation&survey.md
-
+   - textbook/lecture&recitation.md
  - Weekly:
    - weekly/index.md
    - weekly/20230605.md
