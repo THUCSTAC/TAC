@@ -11,9 +11,20 @@
 
 TODO
 
-理论概念: 形成性评价
 
-讨论话题: 学生谈论的“内卷”到底是什么现象？怎样的评分方式让学生感到“鼓励内卷”？
+参考文献: Errol Thompson, Andrew Luxton-Reilly, Jacqueline L. Whalley, Minjie Hu, and Phil Robbins. 2008. Bloom's taxonomy for CS assessment. In Proceedings of the tenth conference on Australasian computing education - Volume 78 (ACE '08).
+
+??? note "理论探讨: 形成性评价和终结性评价"
+
+    形成性评价(formative assessment) 指的是在评价的过程中学生也在学习, 例如平时的各种作业，完成作业也是学习的过程。
+
+    终结性评价(summative assessment) 指的是评价的过程中学生没有学习(但可以促进评价前后的学习)，例如随堂小测和期末考试。
+
+    两种评价方式都有对应的应用场合。使用得当，两种评价方式都可以鼓励学生为获得高分而认真学习。
+    
+    某种意义上，形成性评价比终结性评价更容易让学生有“内卷”的感觉，因为设计不好的形成性评价更容易通过无限投入时间来改善分数。
+
+讨论话题: 学生谈论的“内卷”具体是什么现象？怎样的评分方式让学生感到“鼓励内卷”？
 
 ## 帮助学生针对提高的作业具体反馈
 
