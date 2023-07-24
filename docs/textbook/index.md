@@ -2,6 +2,8 @@
 
 联系作者: liurd22@mails.tsinghua.edu.cn
 
+Submit your issues here: https://github.com/THUCSTAC/TAC/issues
+
 ## 关于这份读本/讲义
 
 这份读本/讲义，是为2023年8月清华计算机系一些教师和助教关于计算机教学的研讨班准备的。
