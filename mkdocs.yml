@@ -23,7 +23,10 @@ nav:
      - attack lab 好在哪里: textbook/ProgrammingAssignment/attacklab.md
    - textbook/SupportLearning.md
    - textbook/lecture&recitation.md
-   - textbook/Grading&Exam.md
+   - 作业评分与查重:
+      - textbook/Grading/index.md
+      - 不同类型作业的评分: textbook/Grading/typeof_grading.md
+      - 代码查重细节: textbook/Grading/plag_detect.md
  - Weekly:
    - weekly/index.md
    - weekly/20230605.md
@@ -49,3 +52,4 @@ markdown_extensions:
 extra_javascript:
   - javascripts/mathjax.js
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6

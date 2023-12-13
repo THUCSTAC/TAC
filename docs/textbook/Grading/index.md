@@ -7,6 +7,8 @@
 - 怎样做好代码查重, 鼓励学生独立完成？
 - 怎样出一套区分度良好的考试题？
 
+(整合 2023秋季 @HarryChen 分享内容)
+
 ## 通过作业评分促进学生有效学习
 
 一个问题: 是否要将详细的评分标准公开?
@@ -49,6 +51,7 @@
     Errol Thompson, Andrew Luxton-Reilly, Jacqueline L. Whalley, Minjie Hu, and Phil Robbins. 2008. Bloom's taxonomy for CS assessment. In Proceedings of the tenth conference on Australasian computing education - Volume 78 (ACE '08).
 
     Biggs, J., & Collis, K. (1982). Evaluating the quality of learning: The SOLO taxonomy. New York: Academic Press.
+
 
 ## 给学生提供具体的作业反馈
 
