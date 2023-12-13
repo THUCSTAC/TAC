@@ -44,3 +44,5 @@ If you have any suggestion, please submit a issue. It would help us a lot.
 
 如果您对我们有什么反馈建议，欢迎去提issue. 这会对我们很有帮助。
 
+update: 经过一段时间的尝试后, 没能坚持周更.... 不过我们会继续尝试其他的形式, 比如“计算教育论文导读”这样的形式。
+

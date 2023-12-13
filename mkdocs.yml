@@ -18,8 +18,11 @@ nav:
      - textbook/Evaluation&Survey/index.md
      - 教评打高分低分的原因: textbook/Evaluation&Survey/reasons_of_ratings.md
      - 15213课程目标中文版: textbook/Evaluation&Survey/15213.md
+   - 如何出好编程作业: 
+     - textbook/ProgrammingAssignment/index.md
+     - attack lab 好在哪里: textbook/ProgrammingAssignment/attacklab.md
+   - textbook/SupportLearning.md
    - textbook/lecture&recitation.md
-   - textbook/Assignment&OfficeHour.md
    - textbook/Grading&Exam.md
  - Weekly:
    - weekly/index.md
