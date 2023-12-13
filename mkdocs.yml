@@ -14,7 +14,10 @@ nav:
    - index.md
  - 给计算机教师的教育学读本:
    - textbook/index.md
-   - textbook/evaluation&survey.md
+   - 学生教评和课程调研: 
+     - textbook/Evaluation&Survey/index.md
+     - 教评打高分低分的原因: textbook/Evaluation&Survey/reasons_of_ratings.md
+     - 15213课程目标中文版: textbook/Evaluation&Survey/15213.md
    - textbook/lecture&recitation.md
    - textbook/Assignment&OfficeHour.md
    - textbook/Grading&Exam.md
