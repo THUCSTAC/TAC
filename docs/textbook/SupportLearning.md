@@ -161,6 +161,26 @@ TODO: 总结介绍 https://pg.ucsd.edu/publications/cs-undergrad-lab-tutoring-ex
 - 善用大纲、折叠块等特性，让文档思路清晰。
 - 将文档和代码灵活地结合、穿插。有时文档可以呈现为代码注释。
 
+### 如何使用“小助教”（peer tutor） ?
+
+引导同学互助，可以在助教答疑之外提供更广的覆盖。
+
+在选课同学中选拔小助教承担答疑、习题课之类的工作，助教负责选拔、培训和督导小助教，来解决人手问题。
+
+学期初，同学可报名小助教，并接受试讲的选拔和相关培训。
+
+然后， 小助教负责习题课的备课和讲授，负责一些线下答疑。助教负责审阅、督导。在习题课后，可以让听习题课的同学也进行一些打分。
+
+期末，结合整个学期的小助教工作成效，给予一定的加分/免除部分平时作业。
+
+参考文献: 
+
+https://www.ccny.cuny.edu/chemistry/peer-led-recitations-general-chemistry（一个概念: Peer Lead Team Learning）
+
+Eric Roberts, John Lilly, and Bryan Rollins. 1995. Using undergraduates as teaching assistants in introductory programming courses: an update on the Stanford experience. SIGCSE Bull. 27, 1 (March 1995), 48–52. https://doi.org/10.1145/199691.199716(对于大一的程序设计基础，这里采用的是上过课的高年级本科生来做小助教)
+
+
+
 ## FAQ
 
 在2023秋季学期的讨论活动中, 我们尝试收集了一些助教关心的相关问题, 并写了一些"一句话回答"供参考。

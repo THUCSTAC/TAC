@@ -22,7 +22,7 @@ nav:
      - textbook/ProgrammingAssignment/index.md
      - attack lab 好在哪里: textbook/ProgrammingAssignment/attacklab.md
    - textbook/SupportLearning.md
-   - textbook/lecture&recitation.md
+   - textbook/recitation.md
    - 作业评分与查重:
       - textbook/Grading/index.md
       - 不同类型作业的评分: textbook/Grading/typeof_grading.md
@@ -35,6 +35,7 @@ nav:
    - weekly/20230626.md
    - weekly/20230703.md
    - weekly/20230710.md
+   - weekly/20230717.md
 
  - reference:
    - reference/index.md
