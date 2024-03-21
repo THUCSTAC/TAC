@@ -10,9 +10,11 @@ theme:
     - content.code.annotate
 
 nav: 
- - home:
+ - 主页:
    - index.md
- - 给计算机教师的教育学读本:
+ - 2024春 助教培训:
+   - 2024S/index.md
+ - 2023秋 助教培训:
    - textbook/index.md
    - 学生教评和课程调研: 
      - textbook/Evaluation&Survey/index.md
@@ -27,7 +29,8 @@ nav:
       - textbook/Grading/index.md
       - 不同类型作业的评分: textbook/Grading/typeof_grading.md
       - 代码查重细节: textbook/Grading/plag_detect.md
- - Weekly:
+ 
+ - 助教周刊Weekly(暂停更新):
    - weekly/index.md
    - weekly/20230605.md
    - weekly/20230612.md
@@ -37,7 +40,7 @@ nav:
    - weekly/20230710.md
    - weekly/20230717.md
 
- - reference:
+ - 参考资料 reference:
    - reference/index.md
    - courses: reference/courses.md
    - resources: reference/resources.md
