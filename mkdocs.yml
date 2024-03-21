@@ -12,8 +12,12 @@ theme:
 nav: 
  - 主页:
    - index.md
+
  - 2024春 助教培训:
    - 2024S/index.md
+   - 简要培训 常见误区与效率技巧:
+     - 2024S/Intro_TricksAndTraps/index.md
+
  - 2023秋 助教培训:
    - textbook/index.md
    - 学生教评和课程调研: 
