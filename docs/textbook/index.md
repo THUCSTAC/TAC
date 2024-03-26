@@ -1,6 +1,8 @@
 # 2023秋 助教培训和教学研讨
 
-联系作者: liurd22@mails.tsinghua.edu.cn
+联系编辑者: liurd22@mails.tsinghua.edu.cn 
+
+当前版本讲义的大部分内容可以认为是清华计算机系和教研院师生集体创作的结果。
 
 Submit your issues here: https://github.com/THUCSTAC/TAC/issues
 
