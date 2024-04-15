@@ -46,3 +46,7 @@ If you have any suggestion, please submit a issue. It would help us a lot.
 
 update: 经过一段时间的尝试后, 没能坚持周更.... 不过我们会继续尝试其他的形式, 比如“计算教育论文导读”这样的形式。
 
+20240415 update:
+之后还是考虑每周更新一篇相关的内容，可能是书籍/论文/课程/作业/理论等等。
+
+以后文件名为 2024_01.md 表示2024年的第一篇。
