@@ -53,8 +53,9 @@ nav:
 
  - 参考资料 reference:
    - reference/index.md
-   - courses: reference/courses.md
-   - resources: reference/resources.md
+   - 院系助教培训课程: reference/courses.md
+   - 助教培训与教学参考资料: reference/resources.md
+   - 计算机课程与作业优秀案例: reference/diamonds.md
 
 
 markdown_extensions:
