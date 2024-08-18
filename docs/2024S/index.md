@@ -10,25 +10,23 @@
 
 三个助教成长阶段，对应助教培训的三个阶段
 
-## 助教培训分阶段大纲
+## 助教培训分阶段大纲 Phased Syllabus
 
-（每节培训的详细材料将陆续上传）
+简要培训：(Introduction)
 
-简要培训：
+- 助教工作效率技巧和常见误区 (Tricks and Traps for new TAs, plus TA Panel)
 
-- 助教工作效率技巧和常见误区 (2024.3.14进行)
+基础培训：(Basics)
 
-基础培训：
+- 如何修订迭代编程作业？（The iterations of programming assignemnts）
+- 如何做好作业评分与代码查重？(Grading and academic honesty)
+- 如何通过答疑辅导，有效支持学生学习? (Tutoring and office hours)
 
-- 如何修订迭代编程作业？（2024.3.28进行）
-- 如何做好作业评分与代码查重？（2024.4.11进行）
-- 如何通过答疑辅导，有效支持学生学习？（待定，拟在4月下半月完成）
+进阶培训：(Advanced Topics)
 
-进阶培训：
-
-- 如何讲好习题课？
-- 如何创新设计编程作业？
-- 如何参与课程调研与课程改革？
-- 计算教育研究前沿
-- 以人为本，驾驭生成式人工智能
-- 教师座谈分享：教学与职业发展
+- 如何创新设计编程作业？(Innovative design of programming assignments)
+- 助教工作中的工具使用(Pedagogical tools and educational technology)
+- 如何教会学生调试? (The instruction of debugging)
+- 人类助教与AI助教如何更好协同 (The cooperation of TA and AI tutors)
+- 助教如何开展课程调研与参与课程改革？（Students survey and instructional innovation）
+- 中小学编程与AI教育（K-12 Programmming and AI education）
