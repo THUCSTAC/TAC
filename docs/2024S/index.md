@@ -1,18 +1,23 @@
 # 2024春 助教培训大纲
 
-## 助教成长的三个阶段
+## 助教成长的三个阶段 
 
-参考叶澜的教师专业发展阶段, 结合研究生助教实际情况。
+Three Stages for the growth of TA
 
-新手阶段：自己能否胜任助教工作，把助教基本工作做到及格？
-熟练阶段：如何把各项基本任务做到优秀，比如将答疑辅导、作业命题做得更好？
-探索阶段：助教工作中有哪些未知的可能性？
+- 新手阶段：自己能否胜任助教工作，把助教基本工作做到及格？（对应新助教必修培训）
+- 熟练阶段：如何把各项基本任务做到优秀，比如将答疑辅导、作业命题做得更好？(对应基础主题研讨)
+- 探索阶段：助教工作中有哪些未知的可能性？(对应进阶主题研讨)
 
 三个助教成长阶段，对应助教培训的三个阶段
 
+
+- Survival: how could I survive as a new TA? (Orientation Session)
+- Competency: how could I perform well the common duties of TAs? (Basic Topics session)
+- Exploration: what else could I do as a TA apart from common duties? (Advanced topics session)
+
 ## 助教培训分阶段大纲 Phased Syllabus
 
-简要培训：(Introduction)
+简要培训：(Introduction/Orientation)
 
 - 助教工作效率技巧和常见误区 (Tricks and Traps for new TAs, plus TA Panel)
 
