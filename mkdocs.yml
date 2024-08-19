@@ -23,6 +23,15 @@ nav:
      - 2024S/Grading/index.md
    - 基础培训 如何做好答疑辅导:
      - 2024S/Tutoring/index.md
+   - 进阶主题 advanced topics:
+     - 2024S/AdvancedTopics/PAdesign.md
+     - 2024S/AdvancedTopics/Tools.md
+     - 2024S/AdvancedTopics/Debugging.md
+     - 2024S/AdvancedTopics/AITutors.md
+     - 2024S/AdvancedTopics/SurveyAndFeedback.md
+     - 2024S/AdvancedTopics/K12.md
+
+
 
  - 2023秋 助教培训:
    - textbook/index.md
