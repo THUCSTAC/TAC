@@ -18,3 +18,37 @@ Here is an introduction of the current structure of this site:
 [2023 Autumn](https://thucstac.github.io/TAC/textbook/) and [2024 Spring](https://thucstac.github.io/TAC/2024S/) are separately organized. We are feeling that it is not the best way to organize materials, especially if one session do not differ greatly from the prior semester.
 
 We are trying to organize materials by topics. For each semester, one page should be enough for the summary and reflection of this semester.
+
+
+### Syllabus of 2023 Autumn 
+
+1. Student feedback and instructional innovation
+2. Office hour and tutoring
+3. Design of programming assignments
+4. Grading and plagiarism detection
+
+### Syllabus of 2024 Spring 
+
+1. Traps and advice for new TAs
+2. Revising programming assignments
+3. Assessment and plagiarism detection
+4. Office hours and tutoring
+5. Innovative design of programming assignments
+6. Tools in TA’s work
+7. Pedagogy for debugging
+8. AI tutors
+9. Analysis of student feedback
+10. K-12 CS education
+
+### Syllabus of 2024 Autumn
+
+1. Traps and advice for new TAs (TA Panel)
+2. Pedagogy for debugging
+3. Office hour and tutoring 
+4. Discussion with a professor 
+5. Innovative design of programming assignments
+6. CS education and games 
+7. K-12 CS education
+8. TODO
+9. TODO
+10. TODO
