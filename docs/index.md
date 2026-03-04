@@ -1,8 +1,15 @@
 # 计算机系助教培训 Teaching Assistants Competency
 
-Most of the materials are in Chinese originally and we are trying to prepare the English version.
 
-If you have questions about some of the materials, please email liurd22@mails.tsinghua.edu.cn 
+!!! note "Future Plan(2026)"
+
+    As in 2026, most of our TA training materials are outdated, as they are based on the TA roles before LLM permeating CS education.
+
+    As for now, We are actively developing a new course on "Introduction to Computing Education Research".
+
+Most of the materials are in Chinese originally and we are trying to prepare the English version.
+If you have questions about some of the materials, please email lrd25@mails.tsinghua.edu.cn.
+
 
 Or submit your issues here: https://github.com/THUCSTAC/TAC/issues
 
