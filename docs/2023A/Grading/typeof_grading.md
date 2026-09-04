@@ -43,14 +43,14 @@ by @HarryChen
 
 如：黑盒部分再分为正确性 80%，排名 20%,可按照相对排名/绝对性能赋分。谨慎设置机制，防止无意义“内卷”消耗时间精力。
 
-黑盒部分的自动化评分可以有多层级的方案(推荐有条件的情况下尽量提供靠后的方案)
+黑盒部分的自动化评分可以有多层级的方案 (推荐有条件的情况下尽量提供靠后的方案)
 
 - 同学只提交代码，完全由助教测试
 - 提供含测试的代码框架，不提供数据/用例
 - 提供含测试的代码框架，提供（可能不完整的）测试/用例
-- 提供含测试的代码框架，提供（可能不完整的）测试/用例+测试环境
+- 提供含测试的代码框架，提供（可能不完整的）测试/用例 + 测试环境
 
-具体来说,
+具体来说，
 
 - 自动化测试：可使用 Tsinghua GitLab CI
 - 测试框架：尽量使用通用的测试框架（如语言自带 / Googletest 等）
@@ -90,7 +90,7 @@ by @HarryChen
 - 过于含糊：学生很难评价自己的完成情况，对分数没有预期
 - 过于详细：容易过拟合，且太死板，学生和助教都失去自主空间
 
-可以给学生一个简单版的评分标准, 助教评分使用详细版的评分标准。
+可以给学生一个简单版的评分标准，助教评分使用详细版的评分标准。
 
 ## 评分反馈/评语
 
@@ -140,15 +140,15 @@ $$ S' = S \times \min(0.8, 0.95^D) $$
 - 在验收时逐个提问达到考核工作量的目的
 - 通过全过程评价、学生反馈与及时干预缓解问题
 
-### 组队评分相关参考:
+### 组队评分相关参考：
 
-组内互评+逐个口试： 
+组内互评 + 逐个口试： 
 
 Evaluating Group Work in (too) Large CS Classes with (too) Few Resources: An Experience Report.  (SIGCSE 2023). 
 
 用每周问卷追踪小组合作情况：
 
-Identifying Struggling Teams in Software Engineering Courses Through Weekly Surveys （SIGCSE 2022）
+Identifying Struggling Teams in Software Engineering Courses Through Weekly Surveys (SIGCSE 2022)
 
 CATME peer evaluation
 

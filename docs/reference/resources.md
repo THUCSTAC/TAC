@@ -2,7 +2,7 @@
 
 Please submit an issue if you find some links invalid.
 
-[UC伯克利助教教学指南](https://gsi.berkeley.edu/gsi-guide-contents/)
+[UC 伯克利助教教学指南](https://gsi.berkeley.edu/gsi-guide-contents/)
 
 ### Handbook/Tips
 

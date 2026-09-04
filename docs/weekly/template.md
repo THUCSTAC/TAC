@@ -1,6 +1,6 @@
 # YYYYMMDD
 
-如果链接失效，请提一个issue.
+如果链接失效，请提一个 issue.
 
 If any of the links failed, please submit an issue.
 

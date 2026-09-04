@@ -20,4 +20,4 @@ Innovative design of Programming Assignments
 
 Papers:
 
-Prompt Problems： A New Programming Exercise for the Generative AI Era(SIGCSE2024)
+Prompt Problems: A New Programming Exercise for the Generative AI Era(SIGCSE2024)
