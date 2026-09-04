@@ -22,7 +22,7 @@ Here is an introduction of the current structure of this site:
 
 [参考资料 Reference](https://thucstac.github.io/TAC/reference/) contains the third-party materials (URLs to them) we find useful for CS TA trainers.
 
-[2023 Autumn](https://thucstac.github.io/TAC/textbook/) and [2024 Spring](https://thucstac.github.io/TAC/2024S/) are separately organized. We are feeling that it is not the best way to organize materials, especially if one session do not differ greatly from the prior semester.
+[2023 Autumn](https://thucstac.github.io/TAC/2023A/) and [2024 Spring](https://thucstac.github.io/TAC/2024S/) are separately organized. We are feeling that it is not the best way to organize materials, especially if one session do not differ greatly from the prior semester.
 
 From [2024 Autumn](https://thucstac.github.io/TAC/2024A/) onwards we switched to a leaner "one page per semester" approach, recording the summary and reflection of each semester, and we are trying to organize materials by topics. Since then, several sessions have been reused across semesters (e.g. debugging, tutoring, PA design, grading), sometimes with the same slides updated for the new semester.
 
