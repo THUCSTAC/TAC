@@ -13,7 +13,19 @@ nav:
  - 主页:
    - index.md
 
- - 2024春 助教培训:
+ - 2026 春 助教培训:
+   - 2026S/index.md
+
+ - 2025 秋 助教培训:
+   - 2025A/index.md
+
+ - 2025 春 助教培训:
+   - 2025S/index.md
+
+ - 2024 秋 助教培训:
+   - 2024A/index.md
+
+ - 2024 春 助教培训:
    - 2024S/index.md
    - 简要培训 常见误区与效率技巧:
      - 2024S/Intro_TricksAndTraps/index.md
@@ -31,25 +43,23 @@ nav:
      - 2024S/AdvancedTopics/SurveyAndFeedback.md
      - 2024S/AdvancedTopics/K12.md
 
-
-
- - 2023秋 助教培训:
-   - textbook/index.md
+ - 2023 秋 助教培训:
+   - 2023A/index.md
    - 学生教评和课程调研: 
-     - textbook/Evaluation&Survey/index.md
-     - 教评打高分低分的原因: textbook/Evaluation&Survey/reasons_of_ratings.md
-     - 15213课程目标中文版: textbook/Evaluation&Survey/15213.md
+     - 2023A/Evaluation&Survey/index.md
+     - 教评打高分低分的原因: 2023A/Evaluation&Survey/reasons_of_ratings.md
+     - 15213 课程目标中文版: 2023A/Evaluation&Survey/15213.md
    - 如何出好编程作业: 
-     - textbook/ProgrammingAssignment/index.md
-     - attack lab 好在哪里: textbook/ProgrammingAssignment/attacklab.md
-   - textbook/SupportLearning.md
-   - textbook/recitation.md
+     - 2023A/ProgrammingAssignment/index.md
+     - attack lab 好在哪里: 2023A/ProgrammingAssignment/attacklab.md
+   - 2023A/SupportLearning.md
+   - 2023A/recitation.md
    - 作业评分与查重:
-      - textbook/Grading/index.md
-      - 不同类型作业的评分: textbook/Grading/typeof_grading.md
-      - 代码查重细节: textbook/Grading/plag_detect.md
- 
- - 助教周刊Weekly(暂停更新):
+      - 2023A/Grading/index.md
+      - 不同类型作业的评分: 2023A/Grading/typeof_grading.md
+      - 代码查重细节: 2023A/Grading/plag_detect.md
+
+ - 助教周刊 Weekly(暂停更新):
    - weekly/index.md
    - weekly/20230605.md
    - weekly/20230612.md
@@ -58,7 +68,7 @@ nav:
    - weekly/20230703.md
    - weekly/20230710.md
    - weekly/20230717.md
-   - weekly/2024_01.md
+   - weekly/20240415.md
 
  - 参考资料 reference:
    - reference/index.md
