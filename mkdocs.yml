@@ -67,6 +67,7 @@ plugins:
             院系助教培训课程: Departmental TA Training Courses
             助教培训与教学参考资料: Non-course Teaching Resources
             培训中提到的论文与资料: Papers and Materials Referenced in Training
+            从培训问卷与反馈中挖掘的洞见: Insights from Training Questionnaires and Feedback
             计算机课程与作业优秀案例: Excellent Courses and Assignments
       reconfigure_material: true
 
@@ -149,6 +150,7 @@ nav:
       - 院系助教培训课程: reference/courses.md
       - 助教培训与教学参考资料: reference/resources.md
       - 培训中提到的论文与资料: reference/readings.md
+      - 从培训问卷与反馈中挖掘的洞见: reference/training_feedback.md
       - 计算机课程与作业优秀案例: reference/diamonds.md
 
 markdown_extensions:
