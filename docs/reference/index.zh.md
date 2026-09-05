@@ -1,8 +1,8 @@
-# Reference
+# 参考资料
 
-Please add an issue if you find another departmental TA training course/program with public materials which is not listed here.
+如果你发现还有未收录的院系助教培训课程/项目（有公开材料），请提交一个 issue。
 
-We divide the references into two types:
+我们把参考资料分为两类：
 
-1. Departmental TA Training Courses/Programs
-2. non-course resources about CS teaching/General college teaching
+1. 院系助教培训课程/项目
+2. 关于计算机教学/大学教学的非课程资源

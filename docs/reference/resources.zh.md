@@ -1,59 +1,59 @@
-# Non-course Teaching Resources
+# 非课程教学资源
 
-Please submit an issue if you find some links invalid.
+如果发现有链接失效，请提交一个 issue。
 
 [UC 伯克利助教教学指南](https://gsi.berkeley.edu/gsi-guide-contents/)
 
-### Handbook/Tips
+### 手册 / 技巧
 
 [CSTeachingTips](https://www.csteachingtips.org/)  https://www.csteachingtips.org/
 
-[Stanford CS161 TA manual, Jessica Su](https://cs.stanford.edu/~jtysu/manual.pdf) https://cs.stanford.edu/~jtysu/manual.pdf
+[Stanford CS161 助教手册（Jessica Su）](https://cs.stanford.edu/~jtysu/manual.pdf) https://cs.stanford.edu/~jtysu/manual.pdf
 
-[Practical TA advice, Jessica Su](https://cs.stanford.edu/~jtysu/teaching.pdf)
+[实用的助教建议（Jessica Su）](https://cs.stanford.edu/~jtysu/teaching.pdf)
 
-[How to make Good Slides, Armando Fox](https://www.armandofox.com/students/slides)
+[如何做一份好幻灯片（Armando Fox）](https://www.armandofox.com/students/slides)
 
-[Berkeley Teaching Conference Handout](https://drive.google.com/file/d/1B4p4iceS10u4oRhEnfj5arn9cwkx_U3r/view)
+[伯克利教学会议讲义](https://drive.google.com/file/d/1B4p4iceS10u4oRhEnfj5arn9cwkx_U3r/view)
 
-[A list of Activities to engage students,teaching.tools](https://teaching.tools/activities)
+[让学生参与的活动清单（teaching.tools）](https://teaching.tools/activities)
 
-[UW Inclusive Teaching Tips](https://docs.google.com/document/d/15egU3IYmgd8c2exue3G7oqpoSQmOVYRumu_Nq7PnkCQ/edit)
+[华盛顿大学包容性教学建议](https://docs.google.com/document/d/15egU3IYmgd8c2exue3G7oqpoSQmOVYRumu_Nq7PnkCQ/edit)
 
-[Stanford Inclusive Teaching Tips](https://docs.google.com/document/d/1hLivou9-_wmsZuzKI2pCGQu0KHVIgYfJSaYhvTgO0Wo/edit)
+[斯坦福包容性教学建议](https://docs.google.com/document/d/1hLivou9-_wmsZuzKI2pCGQu0KHVIgYfJSaYhvTgO0Wo/edit)
 
-[AI Guidance, Yale](https://poorvucenter.yale.edu/AIguidance)
+[耶鲁 AI 教学指南](https://poorvucenter.yale.edu/AIguidance)
 
-[CMU TA Collected Wisdom](https://www.cmu.edu/teaching/resources/PublicationsArchives/CollectedWisdom/collectwisdom-teachingstrategies.pdf)
+[CMU 助教经验汇编](https://www.cmu.edu/teaching/resources/PublicationsArchives/CollectedWisdom/collectwisdom-teachingstrategies.pdf)
 
-### Debug
+### 调试
 
-[Classroom debugging guide, Khan Academy](https://www.khanacademy.org/khan-for-educators/resources/teacher-essentials/teaching-computing/a/classroom-debugging-guide)
+[课堂调试指南（Khan Academy）](https://www.khanacademy.org/khan-for-educators/resources/teacher-essentials/teaching-computing/a/classroom-debugging-guide)
 
-### Visualization
+### 可视化
 
-[PythonTutor](https://pythontutor.com/), supporting Python,JavaScript,C/C++,Java.
+[PythonTutor](https://pythontutor.com/)，支持 Python、JavaScript、C/C++、Java。
 
-[VisualAlgo](https://visualgo.net/en), a visualization website for Data Structures and Algorithms
+[VisualAlgo](https://visualgo.net/en)，数据结构与算法可视化网站
 
-[USF Data Structures and Algorithms Visualization](https://www.cs.usfca.edu/~galles/visualization/about.html)
+[USF 数据结构与算法可视化](https://www.cs.usfca.edu/~galles/visualization/about.html)
 
-### Conferences/Journals
+### 会议 / 期刊
 
-[ToCE](https://dl.acm.org/journal/toce), Transactions on Computing Education
+[ToCE](https://dl.acm.org/journal/toce)，Transactions on Computing Education（计算教育汇刊）
 
-[SIGCSE](https://dl.acm.org/conference/sigcse), ACM Technical Symposium on Computer Science Education
+[SIGCSE](https://dl.acm.org/conference/sigcse)，ACM 计算机科学教育技术研讨会
 
-[ICER](https://dl.acm.org/conference/icer), ACM Conference on International Computing Education Research 
+[ICER](https://dl.acm.org/conference/icer)，ACM 国际计算教育研究会议
 
-[ITiCSE](https://dl.acm.org/conference/iticse), Innovation and Technology in Computer Science Education
+[ITiCSE](https://dl.acm.org/conference/iticse)，计算机科学教育的创新与技术
 
-[计算机教育](https://navi.cnki.net/knavi/journals/JYJS/detail?uniplatform=NZKPT&language=chs), Chinese Journal about Computer Science Education
+[计算机教育](https://navi.cnki.net/knavi/journals/JYJS/detail?uniplatform=NZKPT&language=chs)，中文计算机教育期刊
 
-### Books
+### 书籍
 
-[Your First Year Teaching Computer Science: A Practical Guide to Success for New Computer Science Teachers](https://www.amazon.com/Your-First-Teaching-Computer-Science-ebook/dp/B08VV3LFJZ/), by Chris Gregg from Stanford
+[Your First Year Teaching Computer Science: A Practical Guide to Success for New Computer Science Teachers](https://www.amazon.com/Your-First-Teaching-Computer-Science-ebook/dp/B08VV3LFJZ/)，Chris Gregg（斯坦福）著
 
-### Assignments
+### 作业
 
 [Nifty Assignments](http://nifty.stanford.edu/)
