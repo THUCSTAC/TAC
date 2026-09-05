@@ -57,7 +57,7 @@ In middle school, students learn from wrong answers, getting feedback on their l
 
 One idea: use a grading rubric to make grading and feedback faster. Roughly like "grading a gaokao essay in 40 seconds."
 
-Seaching "高考作文评分标准表" reveals many tables, essentially splitting an essay into items like "on-topic," "fluent language," "substantive content," each with level descriptions.
+Searching for "gaokao essay grading rubric" reveals many tables, essentially splitting an essay into items like "on-topic," "fluent language," "substantive content," each with level descriptions.
 
 Likewise, grading written assignments/lab reports: make a rubric splitting into items like "is the time-complexity analysis correct," "is the thinking clear," "is the final result correct."
 

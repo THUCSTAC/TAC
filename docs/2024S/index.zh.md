@@ -1,37 +1,34 @@
 # 2024 春 助教培训大纲
 
-## 助教成长的三个阶段 
-
-Three Stages for the growth of TA
+## 助教成长的三个阶段
 
 - 新手阶段：自己能否胜任助教工作，把助教基本工作做到及格？（对应新助教必修培训）
-- 熟练阶段：如何把各项基本任务做到优秀，比如将答疑辅导、作业命题做得更好？(对应基础主题研讨)
-- 探索阶段：助教工作中有哪些未知的可能性？(对应进阶主题研讨)
+- 熟练阶段：如何把各项基本任务做到优秀，比如将答疑辅导、作业命题做得更好？（对应基础主题研讨）
+- 探索阶段：助教工作中有哪些未知的可能性？（对应进阶主题研讨）
 
-三个助教成长阶段，对应助教培训的三个阶段
+三个助教成长阶段，对应助教培训的三个阶段：
 
+- 生存：作为新助教，我如何熬过新手期？（导引/说明会）
+- 胜任：我如何把助教的常见职责做好？（基础主题研讨）
+- 探索：除了常见职责，我还能在助教工作中做什么？（进阶主题研讨）
 
-- Survival: how could I survive as a new TA? (Orientation Session)
-- Competency: how could I perform well the common duties of TAs? (Basic Topics session)
-- Exploration: what else could I do as a TA apart from common duties? (Advanced topics session)
+## 助教培训分阶段大纲
 
-## 助教培训分阶段大纲 Phased Syllabus
+简要培训（说明会）：
 
-简要培训：(Introduction/Orientation)
+- 助教工作效率技巧和常见误区（新助教的误区与建议，以及 TA Panel）
 
-- 助教工作效率技巧和常见误区 (Tricks and Traps for new TAs, plus TA Panel)
+基础培训：
 
-基础培训：(Basics)
+- 如何修订迭代编程作业？（编程作业的迭代更新）
+- 如何做好作业评分与代码查重？（评分与学术诚信）
+- 如何通过答疑辅导，有效支持学生学习？（答疑与辅导）
 
-- 如何修订迭代编程作业？（The iterations of programming assignemnts）
-- 如何做好作业评分与代码查重？(Grading and academic honesty)
-- 如何通过答疑辅导，有效支持学生学习？(Tutoring and office hours)
+进阶培训：
 
-进阶培训：(Advanced Topics)
-
-- 如何创新设计编程作业？(Innovative design of programming assignments)
-- 助教工作中的工具使用 (Pedagogical tools and educational technology)
-- 如何教会学生调试？(The instruction of debugging)
-- 人类助教与 AI 助教如何更好协同 (The cooperation of TA and AI tutors)
-- 助教如何开展课程调研与参与课程改革？（Students survey and instructional innovation）
-- 中小学编程与 AI 教育（K-12 Programmming and AI education）
+- 如何创新设计编程作业？（编程作业的创新设计）
+- 助教工作中的工具使用（教学工具与教育技术）
+- 如何教会学生调试？（调试教学）
+- 人类助教与 AI 助教如何更好协同（人类助教与 AI 助教的协同）
+- 助教如何开展课程调研与参与课程改革？（学生调查与教学创新）
+- 中小学编程与 AI 教育（中小学编程教育）
