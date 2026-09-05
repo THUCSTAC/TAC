@@ -175,9 +175,9 @@ TODO: 总结介绍 https://pg.ucsd.edu/publications/cs-undergrad-lab-tutoring-ex
 
 参考文献：
 
-https://www.ccny.cuny.edu/chemistry/peer-led-recitations-general-chemistry（一个概念: Peer Lead Team Learning）
+[Peer-Led Team Learning (PLTL)](https://www.ccny.cuny.edu/chemistry/peer-led-recitations-general-chemistry)（一个概念）
 
-Eric Roberts, John Lilly, and Bryan Rollins. 1995. Using undergraduates as teaching assistants in introductory programming courses: an update on the Stanford experience. SIGCSE Bull. 27, 1 (March 1995), 48–52. https://doi.org/10.1145/199691.199716(对于大一的程序设计基础，这里采用的是上过课的高年级本科生来做小助教)
+Eric Roberts, John Lilly, and Bryan Rollins. 1995. Using undergraduates as teaching assistants in introductory programming courses: an update on the Stanford experience. SIGCSE Bull. 27, 1 (March 1995), 48–52. https://doi.org/10.1145/199691.199716 （对于大一的程序设计基础，这里采用的是上过课的高年级本科生来做小助教）
 
 
 
