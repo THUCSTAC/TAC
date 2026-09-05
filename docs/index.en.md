@@ -1,4 +1,4 @@
-# Teaching Assistants Competency (Computer Science Department)
+# Teaching Assistants Competency (Department of Computer Science and Technology)
 
 
 !!! note "Future Plan (2026)"

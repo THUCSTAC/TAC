@@ -8,7 +8,7 @@ Submit your issues here: https://github.com/THUCSTAC/TAC/issues
 
 ## About this reader/notes
 
-This reader/notes was prepared in the summer of 2023 for a seminar on computer-science teaching held in August 2023 for some faculty and TAs in Tsinghua's CS department.
+This reader/notes was prepared in the summer of 2023 for a seminar on computer-science teaching held in August 2023 for some faculty and TAs in Tsinghua's Department of Computer Science and Technology.
 
 (After the seminar, the notes were iterated based on the actual process and materials.)
 
