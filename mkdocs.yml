@@ -45,6 +45,7 @@ nav:
 
  - 2023 秋 助教培训:
    - 2023A/index.md
+   - 2023 秋 总体回顾: 2023A/overview.md
    - 学生教评和课程调研: 
      - 2023A/Evaluation&Survey/index.md
      - 教评打高分低分的原因: 2023A/Evaluation&Survey/reasons_of_ratings.md
@@ -53,7 +54,8 @@ nav:
      - 2023A/ProgrammingAssignment/index.md
      - attack lab 好在哪里: 2023A/ProgrammingAssignment/attacklab.md
    - 2023A/SupportLearning.md
-   - 2023A/recitation.md
+   - 如何讲好习题课: 2023A/recitation.md
+   - 听课/线下听课，好在哪里: 2023A/archive_recitation.md
    - 作业评分与查重:
       - 2023A/Grading/index.md
       - 不同类型作业的评分: 2023A/Grading/typeof_grading.md
@@ -74,6 +76,7 @@ nav:
    - reference/index.md
    - 院系助教培训课程: reference/courses.md
    - 助教培训与教学参考资料: reference/resources.md
+   - 培训中提到的论文与资料: reference/readings.md
    - 计算机课程与作业优秀案例: reference/diamonds.md
 
 
