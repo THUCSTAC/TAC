@@ -7,7 +7,7 @@
 
     From 2024 Autumn onwards, the training program has begun to incorporate topics on human–AI collaboration, the impact of LLMs on assignments, grading and tutoring. We are also actively developing a new course on "Introduction to Computing Education Research".
 
-Most of the materials are in Chinese originally and we are trying to prepare the English version.
+This site is available in both Chinese and English. To switch languages, use the language switcher in the top-right corner; the Chinese version is at the site root, and the English version lives under `/en/`.
 If you have questions about some of the materials, please email lrd25@mails.tsinghua.edu.cn.
 
 
