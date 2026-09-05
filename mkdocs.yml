@@ -1,5 +1,6 @@
 site_name: TA Competency
 site_url: https://thucstac.github.io/TAC/
+repo_url: https://github.com/THUCSTAC/TAC
 
 theme:
   name: material
