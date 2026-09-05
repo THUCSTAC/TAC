@@ -5,9 +5,21 @@ theme:
   palette:
     primary: deep blue
   features:
-    - navigation.instant
     - navigation.indexes
     - content.code.annotate
+
+plugins:
+  - i18n:
+      docs_structure: suffix
+      languages:
+        - locale: zh
+          default: true
+          name: 中文
+          build: true
+        - locale: en
+          name: English
+          build: true
+      reconfigure_material: true
 
 nav: 
  - 主页:
