@@ -1,0 +1,913 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://thucstac.github.io/TAC/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/2023A/SupportLearning/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2023A/SupportLearning/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2023A/SupportLearning/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/2023A/archive_recitation/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2023A/archive_recitation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2023A/archive_recitation/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/2023A/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2023A/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2023A/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/2023A/overview/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2023A/overview/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2023A/overview/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/2023A/recitation/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2023A/recitation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2023A/recitation/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/2023A/Evaluation%26Survey/15213/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2023A/Evaluation%26Survey/15213/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2023A/Evaluation%26Survey/15213/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/2023A/Evaluation%26Survey/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2023A/Evaluation%26Survey/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2023A/Evaluation%26Survey/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/2023A/Evaluation%26Survey/reasons_of_ratings/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2023A/Evaluation%26Survey/reasons_of_ratings/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2023A/Evaluation%26Survey/reasons_of_ratings/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/2023A/Grading/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2023A/Grading/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2023A/Grading/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/2023A/Grading/plag_detect/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2023A/Grading/plag_detect/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2023A/Grading/plag_detect/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/2023A/Grading/typeof_grading/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2023A/Grading/typeof_grading/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2023A/Grading/typeof_grading/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/2023A/ProgrammingAssignment/attacklab/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2023A/ProgrammingAssignment/attacklab/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2023A/ProgrammingAssignment/attacklab/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/2023A/ProgrammingAssignment/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2023A/ProgrammingAssignment/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2023A/ProgrammingAssignment/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/2024A/course_eval_committee/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2024A/course_eval_committee/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2024A/course_eval_committee/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/2024A/debugging/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2024A/debugging/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2024A/debugging/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/2024A/games/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2024A/games/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2024A/games/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/2024A/grading/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2024A/grading/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2024A/grading/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/2024A/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2024A/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2024A/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/2024A/k12/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2024A/k12/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2024A/k12/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/2024A/pa_design/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2024A/pa_design/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2024A/pa_design/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/2024A/ta_panel/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2024A/ta_panel/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2024A/ta_panel/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/2024A/teacher_exchange/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2024A/teacher_exchange/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2024A/teacher_exchange/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/2024A/tutoring/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2024A/tutoring/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2024A/tutoring/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/2024S/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2024S/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2024S/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/2024S/AdvancedTopics/AITutors/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2024S/AdvancedTopics/AITutors/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2024S/AdvancedTopics/AITutors/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/2024S/AdvancedTopics/Debugging/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2024S/AdvancedTopics/Debugging/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2024S/AdvancedTopics/Debugging/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/2024S/AdvancedTopics/K12/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2024S/AdvancedTopics/K12/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2024S/AdvancedTopics/K12/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/2024S/AdvancedTopics/PAdesign/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2024S/AdvancedTopics/PAdesign/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2024S/AdvancedTopics/PAdesign/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/2024S/AdvancedTopics/SurveyAndFeedback/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2024S/AdvancedTopics/SurveyAndFeedback/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2024S/AdvancedTopics/SurveyAndFeedback/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/2024S/AdvancedTopics/Tools/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2024S/AdvancedTopics/Tools/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2024S/AdvancedTopics/Tools/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/2024S/Grading/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2024S/Grading/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2024S/Grading/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/2024S/Intro_TricksAndTraps/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2024S/Intro_TricksAndTraps/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2024S/Intro_TricksAndTraps/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/2024S/IterationOfPA/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2024S/IterationOfPA/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2024S/IterationOfPA/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/2024S/Tutoring/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2024S/Tutoring/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2024S/Tutoring/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/2025A/debugging/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2025A/debugging/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2025A/debugging/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/2025A/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2025A/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2025A/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/2025A/peer_sharing/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2025A/peer_sharing/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2025A/peer_sharing/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/2025S/debugging/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2025S/debugging/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2025S/debugging/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/2025S/feedback/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2025S/feedback/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2025S/feedback/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/2025S/games/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2025S/games/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2025S/games/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/2025S/grading/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2025S/grading/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2025S/grading/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/2025S/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2025S/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2025S/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/2025S/k12/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2025S/k12/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2025S/k12/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/2025S/pa_design/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2025S/pa_design/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2025S/pa_design/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/2025S/peer_sharing/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2025S/peer_sharing/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2025S/peer_sharing/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/2025S/tutoring/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2025S/tutoring/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2025S/tutoring/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/2026S/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2026S/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2026S/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/2026S/peer_sharing/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2026S/peer_sharing/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2026S/peer_sharing/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/reference/courses/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/reference/courses/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/reference/courses/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/reference/diamonds/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/reference/diamonds/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/reference/diamonds/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/reference/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/reference/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/reference/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/reference/readings/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/reference/readings/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/reference/readings/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/reference/resources/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/reference/resources/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/reference/resources/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/reference/training_feedback/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/reference/training_feedback/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/reference/training_feedback/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/weekly/20230605/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/weekly/20230605/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/weekly/20230605/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/weekly/20230612/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/weekly/20230612/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/weekly/20230612/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/weekly/20230619/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/weekly/20230619/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/weekly/20230619/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/weekly/20230626/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/weekly/20230626/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/weekly/20230626/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/weekly/20230703/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/weekly/20230703/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/weekly/20230703/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/weekly/20230710/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/weekly/20230710/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/weekly/20230710/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/weekly/20230717/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/weekly/20230717/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/weekly/20230717/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/weekly/20240415/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/weekly/20240415/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/weekly/20240415/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/weekly/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/weekly/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/weekly/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/weekly/template/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/weekly/template/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/weekly/template/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/2023A/SupportLearning/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2023A/SupportLearning/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2023A/SupportLearning/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/2023A/archive_recitation/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2023A/archive_recitation/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2023A/archive_recitation/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/2023A/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2023A/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2023A/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/2023A/overview/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2023A/overview/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2023A/overview/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/2023A/recitation/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2023A/recitation/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2023A/recitation/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/2023A/Evaluation%26Survey/15213/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2023A/Evaluation%26Survey/15213/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2023A/Evaluation%26Survey/15213/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/2023A/Evaluation%26Survey/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2023A/Evaluation%26Survey/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2023A/Evaluation%26Survey/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/2023A/Evaluation%26Survey/reasons_of_ratings/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2023A/Evaluation%26Survey/reasons_of_ratings/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2023A/Evaluation%26Survey/reasons_of_ratings/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/2023A/Grading/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2023A/Grading/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2023A/Grading/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/2023A/Grading/plag_detect/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2023A/Grading/plag_detect/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2023A/Grading/plag_detect/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/2023A/Grading/typeof_grading/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2023A/Grading/typeof_grading/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2023A/Grading/typeof_grading/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/2023A/ProgrammingAssignment/attacklab/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2023A/ProgrammingAssignment/attacklab/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2023A/ProgrammingAssignment/attacklab/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/2023A/ProgrammingAssignment/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2023A/ProgrammingAssignment/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2023A/ProgrammingAssignment/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/2024A/course_eval_committee/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2024A/course_eval_committee/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2024A/course_eval_committee/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/2024A/debugging/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2024A/debugging/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2024A/debugging/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/2024A/games/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2024A/games/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2024A/games/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/2024A/grading/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2024A/grading/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2024A/grading/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/2024A/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2024A/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2024A/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/2024A/k12/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2024A/k12/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2024A/k12/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/2024A/pa_design/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2024A/pa_design/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2024A/pa_design/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/2024A/ta_panel/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2024A/ta_panel/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2024A/ta_panel/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/2024A/teacher_exchange/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2024A/teacher_exchange/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2024A/teacher_exchange/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/2024A/tutoring/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2024A/tutoring/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2024A/tutoring/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/2024S/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2024S/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2024S/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/2024S/AdvancedTopics/AITutors/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2024S/AdvancedTopics/AITutors/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2024S/AdvancedTopics/AITutors/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/2024S/AdvancedTopics/Debugging/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2024S/AdvancedTopics/Debugging/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2024S/AdvancedTopics/Debugging/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/2024S/AdvancedTopics/K12/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2024S/AdvancedTopics/K12/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2024S/AdvancedTopics/K12/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/2024S/AdvancedTopics/PAdesign/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2024S/AdvancedTopics/PAdesign/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2024S/AdvancedTopics/PAdesign/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/2024S/AdvancedTopics/SurveyAndFeedback/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2024S/AdvancedTopics/SurveyAndFeedback/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2024S/AdvancedTopics/SurveyAndFeedback/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/2024S/AdvancedTopics/Tools/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2024S/AdvancedTopics/Tools/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2024S/AdvancedTopics/Tools/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/2024S/Grading/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2024S/Grading/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2024S/Grading/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/2024S/Intro_TricksAndTraps/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2024S/Intro_TricksAndTraps/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2024S/Intro_TricksAndTraps/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/2024S/IterationOfPA/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2024S/IterationOfPA/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2024S/IterationOfPA/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/2024S/Tutoring/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2024S/Tutoring/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2024S/Tutoring/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/2025A/debugging/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2025A/debugging/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2025A/debugging/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/2025A/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2025A/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2025A/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/2025A/peer_sharing/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2025A/peer_sharing/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2025A/peer_sharing/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/2025S/debugging/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2025S/debugging/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2025S/debugging/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/2025S/feedback/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2025S/feedback/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2025S/feedback/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/2025S/games/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2025S/games/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2025S/games/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/2025S/grading/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2025S/grading/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2025S/grading/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/2025S/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2025S/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2025S/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/2025S/k12/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2025S/k12/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2025S/k12/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/2025S/pa_design/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2025S/pa_design/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2025S/pa_design/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/2025S/peer_sharing/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2025S/peer_sharing/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2025S/peer_sharing/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/2025S/tutoring/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2025S/tutoring/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2025S/tutoring/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/2026S/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2026S/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2026S/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/2026S/peer_sharing/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/2026S/peer_sharing/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/2026S/peer_sharing/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/reference/courses/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/reference/courses/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/reference/courses/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/reference/diamonds/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/reference/diamonds/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/reference/diamonds/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/reference/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/reference/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/reference/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/reference/readings/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/reference/readings/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/reference/readings/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/reference/resources/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/reference/resources/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/reference/resources/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/reference/training_feedback/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/reference/training_feedback/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/reference/training_feedback/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/weekly/20230605/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/weekly/20230605/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/weekly/20230605/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/weekly/20230612/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/weekly/20230612/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/weekly/20230612/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/weekly/20230619/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/weekly/20230619/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/weekly/20230619/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/weekly/20230626/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/weekly/20230626/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/weekly/20230626/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/weekly/20230703/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/weekly/20230703/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/weekly/20230703/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/weekly/20230710/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/weekly/20230710/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/weekly/20230710/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/weekly/20230717/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/weekly/20230717/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/weekly/20230717/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/weekly/20240415/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/weekly/20240415/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/weekly/20240415/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/weekly/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/weekly/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/weekly/"/>
+    </url>
+    <url>
+        <loc>https://thucstac.github.io/TAC/en/weekly/template/</loc>
+        <lastmod>2026-09-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thucstac.github.io/TAC/en/weekly/template/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://thucstac.github.io/TAC/weekly/template/"/>
+    </url>
+</urlset>
