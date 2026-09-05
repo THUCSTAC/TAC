@@ -67,10 +67,22 @@ A topical collection of the computing-education / teaching papers, books and too
 
 ## TA Training
 
-- Liu, Runda; Chen, Shengqi; Chen, Jiajie; Niu, Songjie; Ma, Yuchun; Tang, Xiaofeng. 2025. Iterative Design of a Teaching Assistant Training Program in Computer Science Using the Agile Method. In Proceedings of the 56th ACM Technical Symposium on Computer Science Education V. 1 (SIGCSE 2025), 680-686. https://doi.org/10.1145/3641554.3701829 — an experience report on the iterative, peer-led TA training program documented on this site.
+- Liu, Runda; Chen, Shengqi; Chen, Jiajie; Niu, Songjie; Ma, Yuchun; Tang, Xiaofeng. 2025. Iterative Design of a Teaching Assistant Training Program in Computer Science Using the Agile Method. In Proceedings of the 56th ACM Technical Symposium on Computer Science Education V. 1 (SIGCSE 2025), 680–686. https://doi.org/10.1145/3641554.3701829 — an experience report on the iterative, peer-led TA training program documented on this site.
 
 ## Tools
 
 - UC Berkeley CS375 Managing Materials for Large Courses.
 - PythonTutor (https://pythontutor.com/).
 - Stanford CS106/CS198 Section Leader handbook.
+
+## Other Course & Reference Materials
+
+These appeared as supporting materials in the training sessions.
+
+- **CS50 (Harvard)** — the intro-CS course and its AI tutor, used as a reference in the AI-tutor session.
+- **Binary (Chinese version)** — a game used when discussing CS education & games.
+- **Buggy TTY-Solitaire** — a debugging exercise used in the debugging sessions.
+- **How to Succeed in 15213** (recitation slides) — a CMU 15-213 recitation reference, alongside the [15-213 syllabus](../2023A/Evaluation&Survey/15213.md).
+- **Software Engineering course research reports** — 2022 Spring questionnaire, 2023 Spring end-of-term report, and 2023 Spring small-assignment questionnaire, used in the course-research discussions.
+- **CourseBench alpha questionnaire** — a proposed evaluation benchmark for courses.
+- **THU CS TA work summary** (241126) — TA-work review/feedback materials.

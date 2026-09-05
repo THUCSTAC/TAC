@@ -20,6 +20,30 @@ Discussion topic 1: share the best programming assignment you've encountered.
 
 (Alternative: lower-level required courses, upper-level required courses, upper-level electives — what differs in assignment design?)
 
+### A case: how do students evaluate assignments?
+
+In 2023 Autumn we collected students' evaluations of some assignments in Tsinghua's Data Structures course, as material for discussing "is an assignment good."
+
+**Well-received assignments** (JumpIntoDSA / the decision-tree lab):
+
+- Felt it was quite rewarding; deepened understanding.
+- Learned a lot, rather than monotonously debugging.
+- Taught me many debugging methods and virtual-machine usage.
+- Very interesting / useful and meaningful.
+- Could learn a bit of machine learning (the decision tree).
+- The topic was interesting and it also builds ability; a real sense of achievement after finishing.
+
+**Poorly-received assignment** (Zuma):
+- Workload far above average for all assignments.
+- Mainly tests debugging C++ programs, which wasn't systematically taught in class, so it didn't reinforce class learning; one bug involved a `cin` usage detail, which didn't feel like testing data-structure/algorithm knowledge.
+- Reading others' non-standard, buggy code is painful; and the program is platform-dependent (bugs seen locally didn't appear on the OJ; different compiler versions).
+- Long sample programs; if you don't read the code, you need lots of effort writing scripts to test, wasting time.
+- Had to debug many pieces of code; self-made test cases might not match OJ errors, and can't use debugging tools, so had to read code to find errors.
+- Too many test cases; a headache.
+- A bit monotonous and time-consuming.
+
+These echo the point above: good assignments make students "gain something" (learn new things rather than monotonous debugging) and are interesting/meaningful; poor assignments often involve testing an unsystematically-taught ability, hard-to-read code/docs, platform-dependent irreproducibility, and monotonous, time-consuming labor.
+
 ## Balancing challenge and support
 
 "Increasing challenge" is a style the school advocates. Here we think giving appropriate support helps students overcome harder challenges.

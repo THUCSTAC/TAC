@@ -67,10 +67,22 @@
 
 ## 助教培训 (TA Training)
 
-- Liu, Runda; Chen, Shengqi; Chen, Jiajie; Niu, Songjie; Ma, Yuchun; Tang, Xiaofeng. 2025. Iterative Design of a Teaching Assistant Training Program in Computer Science Using the Agile Method. In Proceedings of the 56th ACM Technical Symposium on Computer Science Education V. 1 (SIGCSE 2025), 680-686. https://doi.org/10.1145/3641554.3701829 —— 关于本站所展示、用敏捷方法迭代设计的同伴互助助教培训项目的一篇经验报告。
+- Liu, Runda; Chen, Shengqi; Chen, Jiajie; Niu, Songjie; Ma, Yuchun; Tang, Xiaofeng. 2025. Iterative Design of a Teaching Assistant Training Program in Computer Science Using the Agile Method. In Proceedings of the 56th ACM Technical Symposium on Computer Science Education V. 1 (SIGCSE 2025), 680–686. https://doi.org/10.1145/3641554.3701829 —— 关于本站所展示、用敏捷方法迭代设计的同伴互助助教培训项目的一篇经验报告。
 
 ## 工具 (Tools)
 
 - UC Berkeley CS375 Managing Materials for Large Courses。
 - PythonTutor (https://pythontutor.com/)。
 - Stanford CS106/CS198 Section Leader 手册。
+
+## 其他课程与参考材料
+
+以下是在培训研讨中作为辅助材料出现的参考资料。
+
+- **CS50（哈佛）** —— 入门编程课程及其 AI 助教，在 AI 助教主题中被用作参考。
+- **Binary（中文版）** —— 在讨论计算机教育与游戏时使用的一款游戏。
+- **Buggy TTY-Solitaire** —— 在调试研讨中使用的一个调试练习。
+- **How to Succeed in 15213**（习题课幻灯片）—— CMU 15-213 习题课参考资料，与 [15-213 课程目标](../2023A/Evaluation&Survey/15213.md) 一起使用。
+- **软件工程课程调研报告** —— 2022 春问卷、2023 春期末调研报告、2023 春小作业问卷，用于课程调研讨论。
+- **CourseBench alpha 问卷** —— 提出的一个课程评价基准。
+- **清华计算机系助教工作整理（241126）** —— 助教工作回顾/反馈材料。
