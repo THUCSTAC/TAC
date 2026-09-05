@@ -65,6 +65,10 @@ A topical collection of the computing-education / teaching papers, books and too
 - Eric Roberts, John Lilly, Bryan Rollins. 1995. Using Undergraduates as Teaching Assistants in Introductory Programming Courses: An Update on the Stanford Experience. SIGCSE Bulletin.
 - learners teaching novices — assess mastery by having students teach programming to others (SIGCSE 2024).
 
+## TA Training
+
+- Liu, Runda; Chen, Shengqi; Chen, Jiajie; Niu, Songjie; Ma, Yuchun; Tang, Xiaofeng. 2025. Iterative Design of a Teaching Assistant Training Program in Computer Science Using the Agile Method. In Proceedings of the 56th ACM Technical Symposium on Computer Science Education V. 1 (SIGCSE 2025), 680-686. https://doi.org/10.1145/3641554.3701829 — an experience report on the iterative, peer-led TA training program documented on this site.
+
 ## Tools
 
 - UC Berkeley CS375 Managing Materials for Large Courses.

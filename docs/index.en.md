@@ -14,6 +14,11 @@ If you have questions about some of the materials, please email lrd25@mails.tsin
 Or submit your issues here: https://github.com/THUCSTAC/TAC/issues
 
 
+!!! info "Related paper"
+
+    The TA training program documented on this site is described in our paper: Liu, Runda; Chen, Shengqi; Chen, Jiajie; Niu, Songjie; Ma, Yuchun; Tang, Xiaofeng. *Iterative Design of a Teaching Assistant Training Program in Computer Science Using the Agile Method*. SIGCSE 2025, 680–686. [https://doi.org/10.1145/3641554.3701829](https://doi.org/10.1145/3641554.3701829)
+
+
 The structure of this site has changed a few times and we hope to show the iterations of our training program.
 
 Here is an introduction of the current structure of this site:

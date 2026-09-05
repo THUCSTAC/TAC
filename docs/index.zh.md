@@ -14,6 +14,11 @@
 或在 GitHub 上提交 issue：https://github.com/THUCSTAC/TAC/issues
 
 
+!!! info "相关论文"
+
+    本站所展示的助教培训项目，详见我们发表的论文：Liu, Runda; Chen, Shengqi; Chen, Jiajie; Niu, Songjie; Ma, Yuchun; Tang, Xiaofeng. *Iterative Design of a Teaching Assistant Training Program in Computer Science Using the Agile Method*. SIGCSE 2025, 680–686. [https://doi.org/10.1145/3641554.3701829](https://doi.org/10.1145/3641554.3701829)
+
+
 这个网站的结构经历过几次调整，我们希望能展示助教培训的迭代过程。
 
 下面是当前网站结构的介绍：

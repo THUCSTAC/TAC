@@ -65,6 +65,10 @@
 - Eric Roberts, John Lilly, Bryan Rollins. 1995. Using Undergraduates as Teaching Assistants in Introductory Programming Courses: An Update on the Stanford Experience. SIGCSE Bulletin。
 - learners teaching novices（让学生教别人编程来评价掌握程度, SIGCSE 2024）。
 
+## 助教培训 (TA Training)
+
+- Liu, Runda; Chen, Shengqi; Chen, Jiajie; Niu, Songjie; Ma, Yuchun; Tang, Xiaofeng. 2025. Iterative Design of a Teaching Assistant Training Program in Computer Science Using the Agile Method. In Proceedings of the 56th ACM Technical Symposium on Computer Science Education V. 1 (SIGCSE 2025), 680-686. https://doi.org/10.1145/3641554.3701829 —— 关于本站所展示、用敏捷方法迭代设计的同伴互助助教培训项目的一篇经验报告。
+
 ## 工具 (Tools)
 
 - UC Berkeley CS375 Managing Materials for Large Courses。
