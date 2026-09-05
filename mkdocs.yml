@@ -21,98 +21,135 @@ plugins:
         - locale: en
           name: English
           build: true
+          nav_translations:
+            主页: Home
+            "2026 春 助教培训": 2026 Spring TA Training
+            新上岗助教朋辈分享: New-TA Peer Sharing
+            "2025 秋 助教培训": 2025 Autumn TA Training
+            如何教学调试技巧: How to Teach Debugging Techniques
+            "2025 春 助教培训": 2025 Spring TA Training
+            "新上岗助教朋辈分享(线上)": New-TA Peer Sharing (Online)
+            如何做好答疑辅导: How to Do Office Hours and Tutoring Well
+            如何教会同学调试: How to Teach Students Debugging
+            计算机教育与游戏: CS Education and Games
+            "中小学 CS 与 AI 教育": K-12 CS and AI Education
+            编程作业的创新设计: Innovative Design of Programming Assignments
+            如何收集和分析学生反馈: How to Collect and Analyze Student Feedback
+            作业评分与查重: Assignment Grading and Plagiarism Detection
+            "2024 秋 助教培训": 2024 Autumn TA Training
+            "助教朋辈分享 (TA Panel)": TA Panel
+            "教师交流分享(邓俊辉)": Teacher Exchange (Deng Junhui)
+            中小学编程教育: K-12 Programming Education
+            本科生课调委同学交流分享: Undergraduate Course-Evaluation Committee
+            作业评分与代码查重: Assignment Grading and Plagiarism Detection
+            "2024 春 助教培训": 2024 Spring TA Training
+            简要培训 常见误区与效率技巧: "Orientation: Common Traps and Efficiency Tips"
+            基础培训 编程作业的迭代更新: "Basics: Iterating Programming Assignments"
+            基础培训 作业的评分与查重: "Basics: Assignment Grading and Plagiarism Detection"
+            基础培训 如何做好答疑辅导: "Basics: How to Do Office Hours and Tutoring Well"
+            进阶主题: Advanced Topics
+            助教工作中的工具使用: Tools in TA's Work
+            "人类助教与 AI 助教如何更好协同": TAs and AI Tutors
+            如何开展课程调研参与课程改革: Student Surveys and Instructional Innovation
+            "2023 秋 助教培训": 2023 Autumn TA Training
+            "2023 秋 总体回顾": 2023 Autumn Overview
+            学生教评和课程调研: Student Evaluation and Course Research
+            教评打高分低分的原因: Reasons for Good/Bad Ratings
+            "15213 课程目标中文版": 15213 Course Goals (Chinese)
+            如何出好编程作业: How to Design Good Programming Assignments
+            "attack lab 好在哪里": Why Attack Lab Is Good
+            如何讲好习题课: How to Give a Good Recitation
+            "听课/线下听课，好在哪里": Attending Class / Offline Class
+            不同类型作业的评分: Grading Different Types of Assignments
+            代码查重细节: Code Plagiarism Detection - Details
+            "助教周刊(暂停更新)": TA's Weekly (paused)
+            参考资料: Reference
+            院系助教培训课程: Departmental TA Training Courses
+            助教培训与教学参考资料: Non-course Teaching Resources
+            培训中提到的论文与资料: Papers and Materials Referenced in Training
+            计算机课程与作业优秀案例: Excellent Courses and Assignments
       reconfigure_material: true
 
-nav: 
- - 主页:
-   - index.md
-
- - 2026 春 助教培训:
-   - 2026S/index.md
-   - 新上岗助教朋辈分享: 2026S/peer_sharing.md
-
- - 2025 秋 助教培训:
-   - 2025A/index.md
-   - 新上岗助教朋辈分享: 2025A/peer_sharing.md
-   - 如何教学调试技巧: 2025A/debugging.md
-
- - 2025 春 助教培训:
-   - 2025S/index.md
-   - 新上岗助教朋辈分享(线上): 2025S/peer_sharing.md
-   - 如何做好答疑辅导: 2025S/tutoring.md
-   - 如何教会同学调试: 2025S/debugging.md
-   - 计算机教育与游戏: 2025S/games.md
-   - 中小学 CS 与 AI 教育: 2025S/k12.md
-   - 编程作业的创新设计: 2025S/pa_design.md
-   - 如何收集和分析学生反馈: 2025S/feedback.md
-   - 作业评分与查重: 2025S/grading.md
-
- - 2024 秋 助教培训:
-   - 2024A/index.md
-   - 助教朋辈分享 (TA Panel): 2024A/ta_panel.md
-   - 如何教会同学调试: 2024A/debugging.md
-   - 如何做好答疑辅导: 2024A/tutoring.md
-   - 教师交流分享(邓俊辉): 2024A/teacher_exchange.md
-   - 编程作业的创新设计: 2024A/pa_design.md
-   - 计算机教育与游戏: 2024A/games.md
-   - 中小学编程教育: 2024A/k12.md
-   - 本科生课调委同学交流分享: 2024A/course_eval_committee.md
-   - 作业评分与代码查重: 2024A/grading.md
-
- - 2024 春 助教培训:
-   - 2024S/index.md
-   - 简要培训 常见误区与效率技巧:
-     - 2024S/Intro_TricksAndTraps/index.md
-   - 基础培训 编程作业的迭代更新:
-     - 2024S/IterationOfPA/index.md
-   - 基础培训 作业的评分与查重:
-     - 2024S/Grading/index.md
-   - 基础培训 如何做好答疑辅导:
-     - 2024S/Tutoring/index.md
-   - 进阶主题 advanced topics:
-     - 2024S/AdvancedTopics/PAdesign.md
-     - 2024S/AdvancedTopics/Tools.md
-     - 2024S/AdvancedTopics/Debugging.md
-     - 2024S/AdvancedTopics/AITutors.md
-     - 2024S/AdvancedTopics/SurveyAndFeedback.md
-     - 2024S/AdvancedTopics/K12.md
-
- - 2023 秋 助教培训:
-   - 2023A/index.md
-   - 2023 秋 总体回顾: 2023A/overview.md
-   - 学生教评和课程调研: 
-     - 2023A/Evaluation&Survey/index.md
-     - 教评打高分低分的原因: 2023A/Evaluation&Survey/reasons_of_ratings.md
-     - 15213 课程目标中文版: 2023A/Evaluation&Survey/15213.md
-   - 如何出好编程作业: 
-     - 2023A/ProgrammingAssignment/index.md
-     - attack lab 好在哪里: 2023A/ProgrammingAssignment/attacklab.md
-   - 2023A/SupportLearning.md
-   - 如何讲好习题课: 2023A/recitation.md
-   - 听课/线下听课，好在哪里: 2023A/archive_recitation.md
-   - 作业评分与查重:
-      - 2023A/Grading/index.md
-      - 不同类型作业的评分: 2023A/Grading/typeof_grading.md
-      - 代码查重细节: 2023A/Grading/plag_detect.md
-
- - 助教周刊 Weekly(暂停更新):
-   - weekly/index.md
-   - weekly/20230605.md
-   - weekly/20230612.md
-   - weekly/20230619.md
-   - weekly/20230626.md
-   - weekly/20230703.md
-   - weekly/20230710.md
-   - weekly/20230717.md
-   - weekly/20240415.md
-
- - 参考资料 reference:
-   - reference/index.md
-   - 院系助教培训课程: reference/courses.md
-   - 助教培训与教学参考资料: reference/resources.md
-   - 培训中提到的论文与资料: reference/readings.md
-   - 计算机课程与作业优秀案例: reference/diamonds.md
-
+nav:
+  - 主页: index.md
+  - 2026 春 助教培训:
+      - 2026S/index.md
+      - 新上岗助教朋辈分享: 2026S/peer_sharing.md
+  - 2025 秋 助教培训:
+      - 2025A/index.md
+      - 新上岗助教朋辈分享: 2025A/peer_sharing.md
+      - 如何教学调试技巧: 2025A/debugging.md
+  - 2025 春 助教培训:
+      - 2025S/index.md
+      - 新上岗助教朋辈分享(线上): 2025S/peer_sharing.md
+      - 如何做好答疑辅导: 2025S/tutoring.md
+      - 如何教会同学调试: 2025S/debugging.md
+      - 计算机教育与游戏: 2025S/games.md
+      - 中小学 CS 与 AI 教育: 2025S/k12.md
+      - 编程作业的创新设计: 2025S/pa_design.md
+      - 如何收集和分析学生反馈: 2025S/feedback.md
+      - 作业评分与查重: 2025S/grading.md
+  - 2024 秋 助教培训:
+      - 2024A/index.md
+      - 助教朋辈分享 (TA Panel): 2024A/ta_panel.md
+      - 如何教会同学调试: 2024A/debugging.md
+      - 如何做好答疑辅导: 2024A/tutoring.md
+      - 教师交流分享(邓俊辉): 2024A/teacher_exchange.md
+      - 编程作业的创新设计: 2024A/pa_design.md
+      - 计算机教育与游戏: 2024A/games.md
+      - 中小学编程教育: 2024A/k12.md
+      - 本科生课调委同学交流分享: 2024A/course_eval_committee.md
+      - 作业评分与代码查重: 2024A/grading.md
+  - 2024 春 助教培训:
+      - 2024S/index.md
+      - 简要培训 常见误区与效率技巧:
+          - 2024S/Intro_TricksAndTraps/index.md
+      - 基础培训 编程作业的迭代更新:
+          - 2024S/IterationOfPA/index.md
+      - 基础培训 作业的评分与查重:
+          - 2024S/Grading/index.md
+      - 基础培训 如何做好答疑辅导:
+          - 2024S/Tutoring/index.md
+      - 进阶主题:
+          - 编程作业的创新设计: 2024S/AdvancedTopics/PAdesign.md
+          - 助教工作中的工具使用: 2024S/AdvancedTopics/Tools.md
+          - 如何教会同学调试: 2024S/AdvancedTopics/Debugging.md
+          - 人类助教与 AI 助教如何更好协同: 2024S/AdvancedTopics/AITutors.md
+          - 如何开展课程调研参与课程改革: 2024S/AdvancedTopics/SurveyAndFeedback.md
+          - 中小学编程教育: 2024S/AdvancedTopics/K12.md
+  - 2023 秋 助教培训:
+      - 2023A/index.md
+      - 2023 秋 总体回顾: 2023A/overview.md
+      - 学生教评和课程调研:
+          - 2023A/Evaluation&Survey/index.md
+          - 教评打高分低分的原因: 2023A/Evaluation&Survey/reasons_of_ratings.md
+          - 15213 课程目标中文版: 2023A/Evaluation&Survey/15213.md
+      - 如何出好编程作业:
+          - 2023A/ProgrammingAssignment/index.md
+          - attack lab 好在哪里: 2023A/ProgrammingAssignment/attacklab.md
+      - 2023A/SupportLearning.md
+      - 如何讲好习题课: 2023A/recitation.md
+      - 听课/线下听课，好在哪里: 2023A/archive_recitation.md
+      - 作业评分与查重:
+          - 2023A/Grading/index.md
+          - 不同类型作业的评分: 2023A/Grading/typeof_grading.md
+          - 代码查重细节: 2023A/Grading/plag_detect.md
+  - 助教周刊(暂停更新):
+      - weekly/index.md
+      - weekly/20230605.md
+      - weekly/20230612.md
+      - weekly/20230619.md
+      - weekly/20230626.md
+      - weekly/20230703.md
+      - weekly/20230710.md
+      - weekly/20230717.md
+      - weekly/20240415.md
+  - 参考资料:
+      - reference/index.md
+      - 院系助教培训课程: reference/courses.md
+      - 助教培训与教学参考资料: reference/resources.md
+      - 培训中提到的论文与资料: reference/readings.md
+      - 计算机课程与作业优秀案例: reference/diamonds.md
 
 markdown_extensions:
   - admonition
