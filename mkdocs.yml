@@ -4,6 +4,7 @@ repo_url: https://github.com/THUCSTAC/TAC
 
 theme:
   name: material
+  font: false
   palette:
     primary: deep blue
   features:
