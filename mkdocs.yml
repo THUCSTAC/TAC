@@ -25,6 +25,7 @@ plugins:
           build: true
           nav_translations:
             主页: Home
+            "2026 秋 助教培训": 2026 Autumn TA Training
             "2026 春 助教培训": 2026 Spring TA Training
             新上岗助教朋辈分享: New-TA Peer Sharing
             "2025 秋 助教培训": 2025 Autumn TA Training
@@ -75,6 +76,9 @@ plugins:
 
 nav:
   - 主页: index.md
+  - 2026 秋 助教培训:
+      - 2026A/index.md
+      - 新上岗助教朋辈分享: 2026A/peer_sharing.md
   - 2026 春 助教培训:
       - 2026S/index.md
       - 新上岗助教朋辈分享: 2026S/peer_sharing.md

@@ -82,3 +82,7 @@ From [2024 Autumn](https://thucstac.github.io/TAC/2024A/) onwards we keep a per-
 ### Syllabus of 2026 Spring
 
 1. [Traps and advice for new TAs (new-TA peer sharing)](2026S/peer_sharing.md)
+
+### Syllabus of 2026 Autumn
+
+1. [Traps and advice for new TAs (new-TA peer sharing)](2026A/peer_sharing.md)
