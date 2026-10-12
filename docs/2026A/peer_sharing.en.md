@@ -122,9 +122,4 @@ The first training of the semester for new TAs, a panel with experienced TAs fro
 - **Practical**: enrollment next semester is expected to be flat or slightly lower (spring is usually smaller than autumn); by the same time next year it may reach 2,000–3,000, about half of undergraduates and one-fifth of all undergraduates, still supportable. University leadership hopes the course covers all students, so the platform must keep supporting **high concurrency and high availability**.
 - **Aspirational**: Prof. Liu's hope is to let more people (including those originally outside AI who want to switch into it) truly apply AI to their own workflows. This has many challenges, and "taking a course is not necessarily the best way to learn"; the team continues to explore future possibilities.
 
-## To-dos
-
-- Arrange make-up study for TAs who missed the session, and post the related notice in the group.
-- Continue exploring the possibility and solutions for extending the "Toward General AI" course nationwide and to a larger scale.
-
 [⇦ Back to 2026 Autumn](index.md)
